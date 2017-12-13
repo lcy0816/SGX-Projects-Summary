@@ -40,3 +40,6 @@
 
 4.Panoply:Low-TCB Linux Applications with SGX Enclaves
 [here](https://github.com/shwetasshinde24/Panoply)
+
+5.mbedtls-SGX: a port of mbedtls (previously PolarSSL) for Intel-SGX.
+[here](https://github.com/bl4ck5un/mbedtls-SGX)
