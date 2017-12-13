@@ -1,6 +1,54 @@
 # SGX projects summary
 *This summary is a information gathering from the Internet*
 
+## SGX projects
+1.TaLoS: a TLS library that allows existing applications (with an OpenSSL/LibreSSL interface) to securely terminate their TLS connection.
+[here](https://github.com/lsds/TaLoS)
+
+2.TresorSGX:a attempt to isolate and secure a operating system component of the Linux kernel.
+[here](https://github.com/ayeks/TresorSGX)
+
+3.sgx-kmx: SGX Enabled OpenStack Barbican Key Management System
+[here](https://github.com/cloud-security-research/sgx-kms)
+
+4.Panoply:Low-TCB Linux Applications with SGX Enclaves
+[here](https://github.com/shwetasshinde24/Panoply)
+
+5.mbedtls-SGX: a port of mbedtls (previously PolarSSL) for Intel-SGX.
+[here](https://github.com/bl4ck5un/mbedtls-SGX)
+
+6.Graphene / Graphene-SGX Library OS:a library OS for Linux multi-process applications, with Intel SGX support
+[here](https://github.com/oscarlab/graphene)
+
+7.Rust SGX SDK provides the ability to write Intel SGX applications in Rust Programming Language.
+[here](https://github.com/baidu/rust-sgx-sdk)
+
+8.sgx support for QEMU from Intel
+[here](https://github.com/intel/qemu-sgx)
+
+9.sgx support for KVM from Intel
+[here](https://github.com/intel/kvm-sgx)
+
+10.Python SGX Crypto Wrapper:A Python wrapper for sgx_tlibcrypto library
+[here](https://github.com/oweisse/sgx_crypto_wrapper)
+
+11.wolfSSL:a lightweight SSL/TLS library for secure communication
+[here](https://github.com/wolfSSL/wolfssl-examples)
+
+12.OpenSGX: An open-source platform for SGX research that consists of a QEMU-based emulator and a software development kit 
+[here](https://github.com/sslab-gatech/opensgx)
+
+13.S-NFV: A protection scheme for network function virtualization (NFV) applications that uses SGX to secure the applications' internal states
+[here](
+
+14.AirBox: A secure design of edge function platforms using SGX for ensuring code integrity and data confidentiality of an edge function
+[here](
+
+15.SGX-Tor: A design of Tor that enhances the security and privacy of the protocol by utilizing SGX
+[here](https://github.com/kaist-ina/SGX-Tor)
+
+16.SGX-Shield:a system supporting ASLR in the SGX environment. The paper is still under review for publication
+[here](https://github.com/jaebaek/SGX-Shield)
 ## A list of hardware which supports Intel SGX - Software Guard Extensions.
 
 | Marketing Name | Processor# | Post-Conversion S-Spec |
@@ -27,19 +75,3 @@
 | Intel® Xeon®   | E3-1235L v5   | SR2LM  |
 | Intel® Xeon®   | E3-1240L v5   | SR2LN  
  
-
-## SGX projects
-1.TaLoS: a TLS library that allows existing applications (with an OpenSSL/LibreSSL interface) to securely terminate their TLS connection.
-[here](https://github.com/lsds/TaLoS)
-
-2.TresorSGX:a attempt to isolate and secure a operating system component of the Linux kernel.
-[here](https://github.com/ayeks/TresorSGX)
-
-3.sgx-kmx: SGX Enabled OpenStack Barbican Key Management System
-[here](https://github.com/cloud-security-research/sgx-kms)
-
-4.Panoply:Low-TCB Linux Applications with SGX Enclaves
-[here](https://github.com/shwetasshinde24/Panoply)
-
-5.mbedtls-SGX: a port of mbedtls (previously PolarSSL) for Intel-SGX.
-[here](https://github.com/bl4ck5un/mbedtls-SGX)
