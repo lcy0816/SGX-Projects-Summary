@@ -28,7 +28,7 @@
 | Intel® Xeon®   | E3-1240L v5   | SR2LN  
  
 
-## SGX projects(academia)
+## SGX projects
 1.TaLoS: a TLS library that allows existing applications (with an OpenSSL/LibreSSL interface) to securely terminate their TLS connection.
 [here](https://github.com/lsds/TaLoS)
 
