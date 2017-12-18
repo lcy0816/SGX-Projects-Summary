@@ -50,8 +50,9 @@
 16.SGX-Shield:a system supporting ASLR in the SGX environment. The paper is still under review for publication
 [here](https://github.com/jaebaek/SGX-Shield)
 
-##Intel SGX papers
+## Intel SGX papers
 [here](https://github.com/vschiavoni/sgx-papers)
+
 ## A list of hardware which supports Intel SGX - Software Guard Extensions.
 
 | Marketing Name | Processor# | Post-Conversion S-Spec |
