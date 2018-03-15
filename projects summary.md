@@ -39,16 +39,25 @@
 [here](https://github.com/sslab-gatech/opensgx)
 
 13.S-NFV: A protection scheme for network function virtualization (NFV) applications that uses SGX to secure the applications' internal states
-[here](
+[not ready]
 
 14.AirBox: A secure design of edge function platforms using SGX for ensuring code integrity and data confidentiality of an edge function
-[here](
+[not ready]
 
 15.SGX-Tor: A design of Tor that enhances the security and privacy of the protocol by utilizing SGX
 [here](https://github.com/kaist-ina/SGX-Tor)
 
 16.SGX-Shield:a system supporting ASLR in the SGX environment. The paper is still under review for publication
 [here](https://github.com/jaebaek/SGX-Shield)
+
+17.Opaque: a package for Apache Spark SQL that enables strong security for DataFrames using Intel SGX trusted hardware. 
+[here](https://github.com/ucbrise/opaque)
+
+18.The Intel® Software Guard Extensions SSL (Intel® SGX SSL) cryptographic library is intended to provide cryptographic services for Intel® Software Guard Extensions (SGX) enclave applications.
+[here](https://github.com/intel/intel-sgx-ssl)
+
+19.T-SGX:Compiler-based tool that protects Intel SGX applications against controlled-channel attacks.
+[here](https://github.com/sslab-gatech/t-sgx)
 
 ## Intel SGX papers
 [here](https://github.com/vschiavoni/sgx-papers)
