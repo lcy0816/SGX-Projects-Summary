@@ -59,6 +59,8 @@
 19.T-SGX:Compiler-based tool that protects Intel SGX applications against controlled-channel attacks.
 [here](https://github.com/sslab-gatech/t-sgx)
 
+20.Town Crier: An Authenticated Data Feed For Smart Contracts leveraging Intel SGX to provide a strong guarantee that data comes from an existing, trustworthy source.
+[here](https://github.com/bl4ck5un/Town-Crier)
 ## Intel SGX papers
 [here](https://github.com/vschiavoni/sgx-papers)
 
